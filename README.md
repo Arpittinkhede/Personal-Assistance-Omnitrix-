@@ -2,6 +2,9 @@
 
 Personal-Assistance-Omnitrix- is a Python-based virtual assistant designed to help automate tasks, answer queries, and enhance productivity. Inspired by the Omnitrix, this assistant aims to provide a wide range of functionalities for personal and professional use.
 
+## Live Project
+
+You can try out the live project here: [Live Demo](https://omnitrixai.netlify.app/)
 ## Features
 
 - Voice and text-based command recognition
